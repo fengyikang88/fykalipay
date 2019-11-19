@@ -1,9 +1,9 @@
 {
-    "name": "shulidata/easyalipay",
+    "name": "fykcy/fykalipay",
     "description": "支付宝SDK",
     "keywords": [
         "alipay",
-        "easyaliapy",
+        "fykalipay",
         "alipay-sdk",
         "sdk"
     ],
@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "EasyAlipay\\": "src/"
+            "FykAlipay\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "EasyAlipay\\Tests\\": "tests/"
+            "FykAlipay\\Tests\\": "tests/"
         }
     }
 }

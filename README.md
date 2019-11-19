@@ -1,6 +1,6 @@
-## EasyAlipay
+## FykAlipay
 
-EasyAlipay 是基于支付宝OpenAPI开源的PHP语言版本SDK。使用本SDK前你需要具备基础的PHP相关能力，掌握自动加载，[Composer](https://getcomposer.org/)的使用等，并了解[支付宝的相关业务](https://docs.open.alipay.com/api)。
+FykAlipay 是基于支付宝OpenAPI开源的PHP语言版本SDK。使用本SDK前你需要具备基础的PHP相关能力，掌握自动加载，[Composer](https://getcomposer.org/)的使用等，并了解[支付宝的相关业务](https://docs.open.alipay.com/api)。
 
 ## 1.0.0 🎉🎉🎉
 EsayAlipay 1.0.0 首次发布，欢迎加入下方的钉钉群一起交流，我们致力于打造一个方便开发者快速接入支付宝业务的SDK。本SDK针对通用授权、支付、小程序、生活号、营销等场景做了业务模型封装，并在持续增加中。同时对API参数做了最简单处理，以最少可用原则精简了参数，方便开发者更快的使用，降低开发者门槛。
@@ -11,7 +11,7 @@ EsayAlipay 1.0.0 首次发布，欢迎加入下方的钉钉群一起交流，我
 
 ## 二、功能简介
 
-EasyAlipay 提供了以下的能力：
+FykAlipay 提供了以下的能力：
 
 ### 2.1 纯PHP语言开发不采用任何框架
 
@@ -37,7 +37,7 @@ PHP fileinfo 扩展
 ```
 ## 四、快速开始
 ```php
-use EasyAlipay\Factory;
+use FykAlipay\Factory;
 
 $options = [
     'app_id'                   => '你的应用APPID',
@@ -73,11 +73,11 @@ $app = Factory::payment($options);
 
 ## 六、开源许可
 
-EasyAlipay 参考依赖了一些三方组件，在NOTICE中引入了他们的开源协议。
+FykAlipay 参考依赖了一些三方组件，在NOTICE中引入了他们的开源协议。
 
 
 ## 七、信息交流
 
-欢迎加入EasyAlipay钉钉交流群：23311489
+欢迎加入FykAlipay QQ交流群：110521594
 
 <img src="https://gw.alipayobjects.com/mdn/rms_1e5ba1/afts/img/A*7sA8Tpin7f0AAAAAAAAAAABkARQnAQ" width=256 height=256>
