@@ -1,3 +1,5 @@
+##转载于esayalipay 因为他的库composer不了
+
 ## FykAlipay
 
 FykAlipay 是基于支付宝OpenAPI开源的PHP语言版本SDK。使用本SDK前你需要具备基础的PHP相关能力，掌握自动加载，[Composer](https://getcomposer.org/)的使用等，并了解[支付宝的相关业务](https://docs.open.alipay.com/api)。
@@ -78,6 +80,4 @@ FykAlipay 参考依赖了一些三方组件，在NOTICE中引入了他们的开�
 
 ## 七、信息交流
 
-欢迎加入FykAlipay QQ交流群：110521594
-
-<img src="https://gw.alipayobjects.com/mdn/rms_1e5ba1/afts/img/A*7sA8Tpin7f0AAAAAAAAAAABkARQnAQ" width=256 height=256>
+欢迎加入FykAlipay QQ交流群：110521594  
